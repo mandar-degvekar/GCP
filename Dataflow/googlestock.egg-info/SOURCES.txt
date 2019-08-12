@@ -1,0 +1,6 @@
+setup.py
+googlestock.egg-info/PKG-INFO
+googlestock.egg-info/SOURCES.txt
+googlestock.egg-info/dependency_links.txt
+googlestock.egg-info/requires.txt
+googlestock.egg-info/top_level.txt
